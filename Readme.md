@@ -1,0 +1,1 @@
+A computer vision project inspired from SIH 2026 Problem Statements. 
