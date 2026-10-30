@@ -1,1 +1,1 @@
-Depth estimation and 3D contruction based on Computer Vision =.
+Depth estimation and 3D contruction based on Computer Vision.
